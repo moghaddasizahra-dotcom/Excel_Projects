@@ -21,13 +21,7 @@ This version includes all cleaning steps, calculations, and analysis.
 
 ---
 
-| Sheet Name|
-|-----------|
-| **retail_sales_dataset** |
-
-> ## 🟩 retail_sales_dataset
-
-## ──── 🟩 retail_sales_dataset ────
+##       ────  retail_sales_dataset_sheet  ────
 
 ---
 
@@ -169,11 +163,63 @@ This completes the full version of the Retail Sales Dataset Project.
 
 ---
 
-| Sheet Name|
-|-----------------------------------------------------------------------------------------------------------------------------|
-| **Student_scores** |
+##       ────  Student_scores_sheet  ────
 
 ---
 
+# Student Score Dataset
+
+This task analyses student performance using filtering, formulas, and conditional formatting.
+
+### **1) Filter & Sort to Show Best Students in Each Subject**
+Applied filtering and descending sorting on each subject column to identify the top performers.
 
 
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T2.1.English.jpg)
+
+---
+
+### **2) Calculate Average for All Students (Column E)**
+Formula used:
+
+```excel
+=AVERAGE(B2:D2)
+```
+
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T2.2.jpg)
+
+### **3) Highest Score Using MAX Function (Column F)**
+
+Formula used:
+```excel
+=MAX(B2:D2)
+```
+
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T2.3.jpg)
+
+### **4)4) Filter & Sort to Show Best Student by Average**
+Sorted Column E (Average) from largest to smallest to identify the highest-performing student.
+
+
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T2.4.jpg)
+
+### **5) Filter & Sort to Show Best Student by Highest Score**
+Sorted Column F (Highest Score) from largest to smallest.
+
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T2.5.jpg)
+
+### **6) Conditional Formatting – Highlight Highest & Lowest Averages**
+
+Applied conditional formatting rules to Column E:
+- Green for the highest average
+- Red for the lowest average
+
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T2.6.jpg)
+
+---
