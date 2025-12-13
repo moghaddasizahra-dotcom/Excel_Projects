@@ -1,97 +1,147 @@
 # Retail Sales Dataset – Data Cleaning & Analysis
+
 This project focuses on transforming a raw retail sales dataset into a structured and analysable format using Microsoft Excel. The final workbook includes cleaned data, applied formulas, filtered insights, and lookup functions to produce meaningful business information.
-________________________________________
+
+---
+
 ## Project Files
 *Raw Dataset* 
+
 This file contains the unprocessed data exactly as received.
-[Download the Project Excel File](. /retail_sales_dataset_project/retail_sales_dataset.xlsx
-)
-*Final Project Workbook*
-This version includes all cleaning steps, calculations, and analysis.
-[Download the Project Excel File](. /retail_sales_dataset_project/retail_sales_dataset_Project.xlsx
+
+[](. /retail_sales_dataset_project/retail_sales_dataset.xlsx
 )
 
-________________________________________
+*Final Project Workbook*
+This version includes all cleaning steps, calculations, and analysis.
+
+[Download the Final Project Workbook](./retail_sales_dataset_project/retail_sales_dataset_Project.xlsx)
+
+---
+
 ## 1. Data Preparation
+
 ### Converted Raw Data into an Excel Table
+
 The first step was converting the raw columns (A–H) into an Excel Table, which provides automatic formatting, dynamic formula ranges, easier filtering and sorting, and a consistent overall structure.
+
 *Screenshot:*
-/retail_sales_dataset_project/screenshots
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.1.jpg)________________________________________
+![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.1.jpg)
+
+---
+
 ##2. Data Sorting & Filtering
+
 ### Customer Age Sorted (Largest → Smallest)
+
 Sorting age data helps highlight the demographic distribution and identify older or higher-value customer segments.
+
 *Screenshot:*
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.2.jpg)
-________________________________________
+
+---
+
 ## 3. Analytical Calculations
+
 ### Total Commission
+
 Calculated using Excel’s SUM function in cell P10.
+
 ` =SUM(<commission_range>)`
 ```excel
 =SUM(I:I)
 ```
+
 *Screenshot:*
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.3.jpg)
-________________________________________
+
+---
+
 ###  Average Commission
+
 Calculated using AVERAGE function to determine the typical commission value across all entries in cell P11.
+
 ` =AVERAGE(<commission_range>)`
 ```excel
 =AVERAGE(I:I)
 ```
+
 *Screenshot:*
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.3_1.jpg)
-________________________________________
+
+---
+
 ## 4. Additional Analysis
+
 ### Total Sales (Filtered by Product Category)
 *Result:* £156,905.00
+
 To calculate the total sales for a specific product category, the following SUMIFS formula was used:
+
 ```excel
 =SUMIFS(I.:.I, F.:.F, "Electronics")
 ```
+
 *Screenshot:*
+
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.SUMIFS.jpg)
 
 ### Average Commission (Customers Aged > 30)
 Result: £444.37
+
 To find the average commission for customers over 30 years old, the following AVERAGEIFS formula was used:
+
 ```excel
 =AVERAGEIFS(I.:.I, E.:.E, ">30")
 ```
+
 *Screenshot:*
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.AVERAGEIFS.jpg)
 
 ### Number of Customers Under Age 25
 *Result:* 149
+
 To count all customers younger than 25, the COUNTIF function was used:
+
 ```excel
 =COUNTIF(E.:.E, "<25")
 ```
+
 *Screenshot:*
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.COUNTIF.jpg)
-________________________________________
+
+---
+
 ## 5. Lookup Functions Used (VLOOKUP & XLOOKUP)
+
 ### XLOOKUP
 Used when flexibility was required:
 •	Can search both directions
 •	Can return multiple columns
 •	Easier to maintain
 •	No column index issues
+
 VLOOKUP
 Used for straightforward vertical lookups when:
 •	Data flowed left → right
 •	Only one value needed
 •	Simplicity was preferred
-**XLOOKUP is suited for flexible lookups, while **VLOOKUP is ideal for quick one-direction lookups.
+
+*XLOOKUP* is suited for flexible lookups, while *VLOOKUP* is ideal for quick one-direction lookups.
+
 *Screenshots:*
 *VLOOKUP:*
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/VLOOKUP.jpg)
+
 *VLOOKUP:*
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/XLOOKUP.jpg)
-________________________________________
+
+---
+
 ## Conclusion
 This retail sales project demonstrates how raw data can be transformed into clean, structured, and insightful information using Excel. Through a combination of tables, filters, formulas, and lookup functions, the dataset now provides clear answers to sales performance, customer demographics, and commission trends.
+
+---
 
 *Future improvements may include adding:*
 •	PivotTables
