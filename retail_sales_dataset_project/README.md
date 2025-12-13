@@ -166,12 +166,10 @@ This completes the full version of the Retail Sales Dataset Project.
 ---
 
 | Sheet Name|
-|-----------|
+|-----------------------------------------------------------------------------------------------------------------------------|
 | **Student_scores** |
 
 ---
-<div style="width:100%; background:#2196F3; color:white; padding:20px; text-align:center; border-radius:10px; font-size:22px; font-weight:bold; margin-top:10px;">
-  Student_scores
-</div>
+
 
 
