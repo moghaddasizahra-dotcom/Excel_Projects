@@ -5,17 +5,19 @@ This project focuses on transforming a raw retail sales dataset into a structure
 ---
 
 ## Project Files
-*Raw Dataset* 
 
-This file contains the unprocessed data exactly as received.
+**Raw Dataset**
 
-[](. /retail_sales_dataset_project/retail_sales_dataset.xlsx
-)
+This file contains the unprocessed data.
 
-*Final Project Workbook*
+[Download Final Project Workbook](/retail_sales_dataset_project/retail_sales_dataset.xlsx)
+
+
+**Final Project Workbook**
+
 This version includes all cleaning steps, calculations, and analysis.
 
-[Download the Final Project Workbook](./retail_sales_dataset_project/retail_sales_dataset_Project.xlsx)
+[Download Final Project Workbook](./retail_sales_dataset_project/retail_sales_dataset_Project.xlsx)
 
 ---
 
@@ -25,8 +27,8 @@ This version includes all cleaning steps, calculations, and analysis.
 
 The first step was converting the raw columns (A–H) into an Excel Table, which provides automatic formatting, dynamic formula ranges, easier filtering and sorting, and a consistent overall structure.
 
-*Screenshot:*
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.1.jpg)
+**Screenshot:**
+![Download the Final Project Workbook](./screenshots/T1.2.jpg)
 
 ---
 
