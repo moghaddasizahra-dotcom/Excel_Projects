@@ -6,14 +6,14 @@ This project focuses on transforming a raw retail sales dataset into a structure
 
 ## Project Files
 
-**Raw Dataset**
+**Raw Dataset:**
 
 This file contains the unprocessed data.
 
 [Download Raw Dataset](./retail_sales_dataset.xlsx)
 
 
-**Final Project Workbook**
+**Final Project Workbook:**
 
 This version includes all cleaning steps, calculations, and analysis.
 
