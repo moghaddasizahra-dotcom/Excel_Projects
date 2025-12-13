@@ -38,7 +38,7 @@ The first step was converting the raw columns (A–H) into an Excel Table, which
 
 Sorting age data helps highlight the demographic distribution and identify older or higher-value customer segments.
 
-*Screenshot:*
+**Screenshot:**
 ![Excel Table Screenshot](./screenshots/T1.2.jpg)
 
 ---
@@ -54,9 +54,9 @@ Calculated using Excel’s SUM function in cell P10.
 =SUM(I.:.I)
 ```
 
-*Screenshot:*
+**Screenshots:**
 ![Excel Table Screenshot](./screenshots/T1.3.jpg)
-
+![Excel Table Screenshot](./screenshots/T1.3_1.jpg)
 ---
 
 ### Average Commission
@@ -68,8 +68,8 @@ Calculated using AVERAGE function to determine the typical commission value acro
 =AVERAGE(I.:.I)
 ```
 
-*Screenshot:*
-![Excel Table Screenshot](./screenshots/T1.2.jpg)
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T1.4.jpg)
 
 ---
 
@@ -84,9 +84,9 @@ To calculate the total sales for a specific product category, the following SUMI
 =SUMIFS(I.:.I, F.:.F, "Electronics")
 ```
 
-*Screenshot:*
+***Screenshot:**
 
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.SUMIFS.jpg)
+![Excel Table Screenshot](./screenshots/T1.SUMIFS.jpg)
 
 ### Average Commission (Customers Aged > 30)
 Result: £444.37
@@ -97,8 +97,8 @@ To find the average commission for customers over 30 years old, the following AV
 =AVERAGEIFS(I.:.I, E.:.E, ">30")
 ```
 
-*Screenshot:*
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.AVERAGEIFS.jpg)
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T1.AVERAGEIFS.jpg)
 
 ### Number of Customers Under Age 25
 *Result:* 149
@@ -109,8 +109,8 @@ To count all customers younger than 25, the COUNTIF function was used:
 =COUNTIF(E.:.E, "<25")
 ```
 
-*Screenshot:*
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.COUNTIF.jpg)
+**Screenshot:**
+![Excel Table Screenshot](./screenshots/T1.COUNTIF.jpg)
 
 ---
 
