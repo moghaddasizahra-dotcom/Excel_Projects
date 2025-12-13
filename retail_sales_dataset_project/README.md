@@ -32,7 +32,7 @@ The first step was converting the raw columns (A–H) into an Excel Table, which
 
 ---
 
-##2. Data Sorting & Filtering
+## 2. Data Sorting & Filtering
 
 ### Customer Age Sorted (Largest → Smallest)
 
@@ -59,7 +59,7 @@ Calculated using Excel’s SUM function in cell P10.
 
 ---
 
-###  Average Commission
+### Average Commission
 
 Calculated using AVERAGE function to determine the typical commission value across all entries in cell P11.
 
@@ -114,25 +114,28 @@ To count all customers younger than 25, the COUNTIF function was used:
 
 ---
 
-## 5. Lookup Functions Used (VLOOKUP & XLOOKUP)
+## 5. Lookup Functions used (VLOOKUP & XLOOKUP)
 
 ### XLOOKUP
 Used when flexibility was required:
-•	Can search both directions
-•	Can return multiple columns
-•	Easier to maintain
-•	No column index issues
 
-VLOOKUP
+- Can search both directions
+- Can return multiple columns
+- Easier to maintain
+- No column index issues
+
+### VLOOKUP
 Used for straightforward vertical lookups when:
-•	Data flowed left → right
-•	Only one value needed
-•	Simplicity was preferred
+
+- Data flowed left → right
+- Only one value needed
+- Simplicity was preferred
 
 *XLOOKUP* is suited for flexible lookups, while *VLOOKUP* is ideal for quick one-direction lookups.
 
-*Screenshots:*
-*VLOOKUP:*
+**Screenshots:**
+
+*XLOOKUP:*
 ![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/VLOOKUP.jpg)
 
 *VLOOKUP:*
@@ -141,14 +144,15 @@ Used for straightforward vertical lookups when:
 ---
 
 ## Conclusion
+
 This retail sales project demonstrates how raw data can be transformed into clean, structured, and insightful information using Excel. Through a combination of tables, filters, formulas, and lookup functions, the dataset now provides clear answers to sales performance, customer demographics, and commission trends.
 
 ---
 
-*Future improvements may include adding:*
-•	PivotTables
-•	Interactive dashboards
-•	Automated charts
-•	Advanced category segmentation
-This completes the full version of the Retail Sales Dataset Project.
+**Future improvements may include adding:**
+- PivotTables
+- Interactive dashboards
+- Automated charts
+- Advanced category segmentation
 
+This completes the full version of the Retail Sales Dataset Project.
