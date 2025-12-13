@@ -10,7 +10,7 @@ This project focuses on transforming a raw retail sales dataset into a structure
 
 This file contains the unprocessed data.
 
-[Download Final Project Workbook](/retail_sales_dataset_project/retail_sales_dataset.xlsx)
+[Download Raw Dataset](./retail_sales_dataset.xlsx)
 
 
 **Final Project Workbook**
@@ -28,7 +28,7 @@ This version includes all cleaning steps, calculations, and analysis.
 The first step was converting the raw columns (A–H) into an Excel Table, which provides automatic formatting, dynamic formula ranges, easier filtering and sorting, and a consistent overall structure.
 
 **Screenshot:**
-![Download the Final Project Workbook](./screenshots/T1.2.jpg)
+![Excel Table Screenshot](./screenshots/T1.1.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ The first step was converting the raw columns (A–H) into an Excel Table, which
 Sorting age data helps highlight the demographic distribution and identify older or higher-value customer segments.
 
 *Screenshot:*
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.2.jpg)
+![Excel Table Screenshot](./screenshots/T1.2.jpg)
 
 ---
 
@@ -51,11 +51,11 @@ Calculated using Excel’s SUM function in cell P10.
 
 ` =SUM(<commission_range>)`
 ```excel
-=SUM(I:I)
+=SUM(I.:.I)
 ```
 
 *Screenshot:*
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.3.jpg)
+![Excel Table Screenshot](./screenshots/T1.3.jpg)
 
 ---
 
@@ -65,11 +65,11 @@ Calculated using AVERAGE function to determine the typical commission value acro
 
 ` =AVERAGE(<commission_range>)`
 ```excel
-=AVERAGE(I:I)
+=AVERAGE(I.:.I)
 ```
 
 *Screenshot:*
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/T1.3_1.jpg)
+![Excel Table Screenshot](./screenshots/T1.2.jpg)
 
 ---
 
