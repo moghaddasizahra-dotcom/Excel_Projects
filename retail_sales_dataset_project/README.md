@@ -17,7 +17,7 @@ This file contains the unprocessed data.
 
 This version includes all cleaning steps, calculations, and analysis.
 
-[Download Final Project Workbook](./retail_sales_dataset_project/retail_sales_dataset_Project.xlsx)
+[Download Final Project Workbook](./retail_sales_dataset_Project.xlsx)
 
 ---
 
@@ -39,7 +39,7 @@ The first step was converting the raw columns (A–H) into an Excel Table, which
 Sorting age data helps highlight the demographic distribution and identify older or higher-value customer segments.
 
 **Screenshot:**
-![Excel Table Screenshot](./screenshots/T1.2.jpg)
+
 
 ---
 
