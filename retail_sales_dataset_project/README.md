@@ -136,10 +136,10 @@ Used for straightforward vertical lookups when:
 **Screenshots:**
 
 *XLOOKUP:*
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/VLOOKUP.jpg)
+![Excel Table Screenshot](./screenshots/XLOOKUP.jpg)
 
 *VLOOKUP:*
-![Excel Table Screenshot](./retail_sales_dataset_project/screenshots/XLOOKUP.jpg)
+![Excel Table Screenshot](./screenshots/VLOOKUP.jpg)
 
 ---
 
