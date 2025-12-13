@@ -21,7 +21,7 @@ This version includes all cleaning steps, calculations, and analysis.
 
 ---
 
-##       ────  retail_sales_dataset_sheet  ────
+- ## 1.retail_sales_dataset_sheet:
 
 
 ## 1. Data Preparation
@@ -162,10 +162,10 @@ This completes the full version of the Retail Sales Dataset Project.
 
 ---
 
-##     ────  Student_scores_sheet  ────
+- ## 2. Student_scores_sheet:
 
 
-# Student Score Dataset
+## Student Score Dataset
 
 This task analyses student performance using filtering, formulas, and conditional formatting.
 
