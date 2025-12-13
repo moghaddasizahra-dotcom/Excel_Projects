@@ -23,7 +23,6 @@ This version includes all cleaning steps, calculations, and analysis.
 
 ##       ────  retail_sales_dataset_sheet  ────
 
----
 
 ## 1. Data Preparation
 
@@ -163,9 +162,8 @@ This completes the full version of the Retail Sales Dataset Project.
 
 ---
 
-##       ────  Student_scores_sheet  ────
+##     ────  Student_scores_sheet  ────
 
----
 
 # Student Score Dataset
 
@@ -175,8 +173,15 @@ This task analyses student performance using filtering, formulas, and conditiona
 Applied filtering and descending sorting on each subject column to identify the top performers.
 
 
-**Screenshot:**
+**Screenshots:**
+*Best student in **English***
 ![Excel Table Screenshot](./screenshots/T2.1.English.jpg)
+
+*Best student in **Math***
+![Excel Table Screenshot](./screenshots/T2.1.Math.jpg)
+
+*Best student in **Science***
+![Excel Table Screenshot](./screenshots/T2.1.Science.jpg)
 
 ---
 
@@ -190,6 +195,8 @@ Formula used:
 **Screenshot:**
 ![Excel Table Screenshot](./screenshots/T2.2.jpg)
 
+---
+
 ### **3) Highest Score Using MAX Function (Column F)**
 
 Formula used:
@@ -200,7 +207,7 @@ Formula used:
 **Screenshot:**
 ![Excel Table Screenshot](./screenshots/T2.3.jpg)
 
-### **4)4) Filter & Sort to Show Best Student by Average**
+### **4) Filter & Sort to Show Best Student by Average**
 Sorted Column E (Average) from largest to smallest to identify the highest-performing student.
 
 
