@@ -21,12 +21,9 @@ This version includes all cleaning steps, calculations, and analysis.
 
 ---
 
-<table>
-  <tr>
-    <td style="padding:20px; text-align:center; border:2px solid #000; font-size:18px; font-weight:bold;">
-      retail_sales_dataset
-    </td>
-  </tr>
+| Sheet Name|
+|-----------|
+| **retail_sales_dataset** |
 
 ---
 
@@ -165,3 +162,11 @@ This retail sales project demonstrates how raw data can be transformed into clea
 - Advanced category segmentation
 
 This completes the full version of the Retail Sales Dataset Project.
+
+---
+
+| Sheet Name|
+|-----------|
+| **Student_scores** |
+
+---
