@@ -24,6 +24,52 @@ In this lab, I:
 
 ---
 
+## Lab 1 – Pivot Tables & Visualisation
+
+### Screenshots:
+
+> P1 – Creating an Excel Pivot Table
+Screenshot showing the first pivot table created.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P1.jpg)
+
+> P2 – Rearrange the Pivot Table
+Screenshot showing countries displayed as rows after rearranging fields.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P2.jpg)
+
+> P3 – Refine and revise the Pivot Table
+Screenshot showing the pivot table with blank cells replaced by zeros and enhanced by adding the Customer Gender field as a new column in the pivot table.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P3.jpg)
+
+P4 – Create a Pivot Table chart.
+Screenshot of the stacked column chart titled “Sales Summary.”
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P4.jpg)
+
+P5 – Chart with Gender Hidden.
+Screenshot of the same chart after collapsing gender categories.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P5.jpg)
+
+P6 – Conditional Formatting (Highest & Lowest Values)
+Screenshot showing conditional formatting applied: pink for the lowest, green/yellow for the highest values.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P6.jpg)
+
+P7 – Conditional Formatting (Age Groups Only)
+Screenshot showing conditional formatting applied only to age groups, ignoring gender values.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P7.jpg)
+
+P8 – Full Conditional Formatting (All Data, Including Gender)
+Screenshot showing conditional formatting applied across all data, including gender categories.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P8.jpg)
+
+---
+
 ## Lab 2: Data Visualisation (Line, Column, Pie Charts)
 
 This lab focuses entirely on chart creation and formatting. I:
@@ -41,137 +87,38 @@ This lab focuses entirely on chart creation and formatting. I:
 
 ---
 
-## Screenshots
+## Lab 2 – Visualisation Charts
 
-### Lab 1 – Pivot Tables & Visualisation
+### Screenshots:
 
-P1 – Initial Pivot Table
-Screenshot showing the first pivot table created.
-
-
-P2 – Pivot Table with Countries in Rows
-
-Screenshot showing countries displayed as rows after rearranging fields.
-
-P3 – Pivot Table with Customer Gender Added
-
-Screenshot showing customer gender added as a new column in the pivot table.
-
-P4 – Sales Summary Chart
-
-Screenshot of the stacked column chart titled “Sales Summary.”
-
-P5 – Chart with Gender Hidden
-
-Screenshot of the same chart after collapsing gender categories.
-
-P6 – Conditional Formatting (Highest & Lowest Values)
-
-Screenshot showing conditional formatting applied: pink for lowest, green/yellow for highest values.
-
-P7 – Conditional Formatting (Age Groups Only)
-
-Screenshot showing conditional formatting applied only to age groups, ignoring gender values.
-
-P8 – Full Conditional Formatting (All Data, Including Gender)
-
-Screenshot showing conditional formatting applied across all data, including gender categories.
-
-
-Lab 2 – Visualisation Charts
-V1 – Revenue and Profit by Year (Table + Line Chart)
-
+V1 – Creating a Line Chart: (Table + Line Chart)
 Screenshot showing the Revenue & Profit table with the generated line chart.
 
-V1.1 – Revenue vs. Profits (Formatted Line Chart)
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V1.jpg)
 
-Screenshot of the fully formatted “Revenue vs. Profits” line chart.
-
-V2 – Product Revenue by Country (Table + Column Chart)
-
-Screenshot showing the dataset and the stacked column chart.
-
-V2.1 – Product Revenue by Country (Formatted Chart)
-
-Screenshot of the finished column chart with titles, axis labels, and legend on the right.
-
-V3 – Revenue by Age Group (Table + Pie Chart)
-
-Screenshot showing the table used to build the pie chart.
-
-V3.1 – Revenue Comparison by Age Group (Formatted Pie Chart)
-
-Screenshot of the completed pie chart with category labels and percentages.
-
-Your Lab 2 screenshot section is now added and formatted nicely!
-
-If you’d like, I can also organize all screenshots into a collapsible format, table layout, or add numbering/links for easy navigation.
-
-
-
-
-
-Lab 1 – Pivot Tables & Visualisation
-Lab 2 – Visualisation Charts
-
-Below are placeholders for all screenshots I will include for both lab projects.
-
-Lab 1 – Pivot Tables & Visualisation
-P1 – Initial Pivot Table
-
-Screenshot showing the first pivot table created following the lab instructions.
-
-P2 – Pivot Table with Countries in Rows
-
-Screenshot showing countries displayed as rows after rearranging fields.
-
-P3 – Pivot Table with Customer Gender Added
-
-Screenshot showing customer gender added as a new column in the pivot table.
-
-P4 – Sales Summary Chart
-
-Screenshot of the stacked column chart titled “Sales Summary.”
-
-P5 – Chart with Gender Hidden
-
-Screenshot of the same chart after collapsing gender categories.
-
-P6 – Conditional Formatting (Highest & Lowest Values)
-
-Screenshot showing conditional formatting applied: pink for lowest, green/yellow for highest values.
-
-P7 – Conditional Formatting (Age Groups Only)
-
-Screenshot showing conditional formatting applied only to age groups, ignoring gender values.
-
-P8 – Full Conditional Formatting (All Data, Including Gender)
-
-Screenshot showing conditional formatting applied across all data, including gender categories.
-
-If you want, I can also add placeholders for Lab 2 screenshots or format them into a table layout.
-
-Lab 2 – Visualisation Charts
-V1 – Revenue and Profit by Year (Table + Line Chart)
-
-Screenshot showing the Revenue & Profit table with the generated line chart.
 
 V1.1 – Revenue vs. Profits (Formatted Line Chart)
-
 Screenshot of the fully formatted “Revenue vs. Profits” line chart.
 
-V2 – Product Revenue by Country (Table + Column Chart)
 
-Screenshot showing the dataset and the stacked column chart.
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V1.1.jpg)
+
+V2 – Creating a Column Chart: (Table + Column Chart)
+Screenshot showing the Product Revenue by Country table and the stacked column chart.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V2.jpg)
 
 V2.1 – Product Revenue by Country (Formatted Chart)
-
 Screenshot of the finished column chart with titles, axis labels, and legend on the right.
 
-V3 – Revenue by Age Group (Table + Pie Chart)
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V2.1.jpg)
 
+V3 – Creating a Pie Chart: (Table + Pie Chart)
 Screenshot showing the table used to build the pie chart.
 
-V3.1 – Revenue Comparison by Age Group (Formatted Pie Chart)
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V3.jpg)
 
+V3.1 – Revenue Comparison by Age Group (Formatted Pie Chart)
 Screenshot of the completed pie chart with category labels and percentages.
+
+![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V3.1.jpg)
