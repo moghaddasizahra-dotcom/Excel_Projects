@@ -28,45 +28,53 @@ In this lab, I:
 
 ### Screenshots:
 
-P1 – Creating an Excel Pivot Table
+**P1 – Creating an Excel Pivot Table**
+
 Screenshot showing the first pivot table created.
 
 ![Excel Table Screenshot](./screenshots/P1.jpg)
 
-P2 – Rearrange the Pivot Table
+**P2 – Rearrange the Pivot Table**
+
 Screenshot showing countries displayed as rows after rearranging fields.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P2.jpg)
+![Excel Table Screenshot](./screenshots/P2.jpg)
 
-P3 – Refine and revise the Pivot Table
+**P3 – Refine and revise the Pivot Table**
+
 Screenshot showing the pivot table with blank cells replaced by zeros and enhanced by adding the Customer Gender field as a new column in the pivot table.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P3.jpg)
+![Excel Table Screenshot](./screenshots/P3.jpg)
 
-P4 – Create a Pivot Table chart.
+**P4 – Create a Pivot Table chart**
+
 Screenshot of the stacked column chart titled “Sales Summary.”
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P4.jpg)
+![Excel Table Screenshot](./screenshots/P4.jpg)
 
-P5 – Chart with Gender Hidden.
+**P5 – Chart with Gender Hidden**
+
 Screenshot of the same chart after collapsing gender categories.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P5.jpg)
+![Excel Table Screenshot](./screenshots/P5.jpg)
 
-P6 – Conditional Formatting (Highest & Lowest Values)
+**P6 – Conditional Formatting (Highest & Lowest Values)**
+
 Screenshot showing conditional formatting applied: pink for the lowest, green/yellow for the highest values.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P6.jpg)
+![Excel Table Screenshot](./screenshots/P6.jpg)
 
-P7 – Conditional Formatting (Age Groups Only)
+**P7 – Conditional Formatting (Age Groups Only)**
+
 Screenshot showing conditional formatting applied only to age groups, ignoring gender values.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P7.jpg)
+![Excel Table Screenshot](./screenshots/P7.jpg)
 
-P8 – Full Conditional Formatting (All Data, Including Gender)
+**P8 – Full Conditional Formatting (All Data, Including Gender)**
+
 Screenshot showing conditional formatting applied across all data, including gender categories.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P8.jpg)
+![Excel Table Screenshot](./screenshots/P8.jpg)
 
 ---
 
@@ -91,34 +99,39 @@ This lab focuses entirely on chart creation and formatting. I:
 
 ### Screenshots:
 
-V1 – Creating a Line Chart: (Table + Line Chart)
+**V1 – Creating a Line Chart: (Table + Line Chart)**
+
 Screenshot showing the Revenue & Profit table with the generated line chart.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V1.jpg)
+![Excel Table Screenshot](./screenshots/V1.jpg)
 
 
-V1.1 – Revenue vs. Profits (Formatted Line Chart)
+**V1.1 – Revenue vs. Profits (Formatted Line Chart)**
+
 Screenshot of the fully formatted “Revenue vs. Profits” line chart.
 
+![Excel Table Screenshot](./screenshots/V1.1.jpg)
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V1.1.jpg)
+**V2 – Creating a Column Chart: (Table + Column Chart)**
 
-V2 – Creating a Column Chart: (Table + Column Chart)
 Screenshot showing the Product Revenue by Country table and the stacked column chart.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V2.jpg)
+![Excel Table Screenshot](./screenshots/V2.jpg)
 
-V2.1 – Product Revenue by Country (Formatted Chart)
+**V2.1 – Product Revenue by Country (Formatted Chart)**
+
 Screenshot of the finished column chart with titles, axis labels, and legend on the right.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V2.1.jpg)
+![Excel Table Screenshot](./screenshots/V2.1.jpg)
 
-V3 – Creating a Pie Chart: (Table + Pie Chart)
+**V3 – Creating a Pie Chart: (Table + Pie Chart)**
+
 Screenshot showing the table used to build the pie chart.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V3.jpg)
+![Excel Table Screenshot](./screenshots/V3.jpg)
 
-V3.1 – Revenue Comparison by Age Group (Formatted Pie Chart)
+**V3.1 – Revenue Comparison by Age Group (Formatted Pie Chart)**
+
 Screenshot of the completed pie chart with category labels and percentages.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/V3.1.jpg)
+![Excel Table Screenshot](./screenshots/V3.1.jpg)
