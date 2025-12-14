@@ -118,11 +118,11 @@ Screenshot showing the Product Revenue by Country table and the stacked column c
 
 ![Excel Table Screenshot](./screenshots/V2.jpg)
 
-**V2.1 – Product Revenue by Country (Formatted Chart)**
+**V2.2 – Product Revenue by Country (Formatted Chart)**
 
 Screenshot of the finished column chart with titles, axis labels, and legend on the right.
 
-![Excel Table Screenshot](./screenshots/V2.1.jpg)
+![Excel Table Screenshot](./screenshots/V2.2.jpg)
 
 **V3 – Creating a Pie Chart: (Table + Pie Chart)**
 
