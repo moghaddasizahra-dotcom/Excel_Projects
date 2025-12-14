@@ -28,17 +28,17 @@ In this lab, I:
 
 ### Screenshots:
 
-> P1 – Creating an Excel Pivot Table
+P1 – Creating an Excel Pivot Table
 Screenshot showing the first pivot table created.
 
-![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P1.jpg)
+![Excel Table Screenshot](./screenshots/P1.jpg)
 
-> P2 – Rearrange the Pivot Table
+P2 – Rearrange the Pivot Table
 Screenshot showing countries displayed as rows after rearranging fields.
 
 ![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P2.jpg)
 
-> P3 – Refine and revise the Pivot Table
+P3 – Refine and revise the Pivot Table
 Screenshot showing the pivot table with blank cells replaced by zeros and enhanced by adding the Customer Gender field as a new column in the pivot table.
 
 ![Excel Table Screenshot](./Bike_Sales_Pivot_Table_and_Visualisations_Lab/screenshots/P3.jpg)
