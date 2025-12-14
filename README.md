@@ -88,7 +88,7 @@ This repository demonstrates practical Excel skills used in business analytics, 
 - Compare your results with the provided screenshots.
 
 ---
-
+```text
 Bike_Sales_and_Retail_Analytics/
 │
 ├── Bike_Sales_Pivot_Table_and_Visualisations_Lab/
@@ -145,3 +145,4 @@ Bike_Sales_and_Retail_Analytics/
 │
 ├── LICENSE
 └── README.md   <!-- main readme -->
+```
