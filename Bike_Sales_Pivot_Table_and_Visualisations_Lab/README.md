@@ -1,6 +1,6 @@
 # Excel Data Analysis & Visualisation Labs
 
-This project showcases two hands-on labs that I completed to analyse and visualise data using **Microsoft Excel (Microsoft 365 Online)**. Users will learn how to create pivot tables, generate charts, and format visualisations for clear data interpretation.
+This project showcases two hands-on labs that I completed to analyse and visualise data using **Microsoft Excel**. Users will learn how to create pivot tables, generate charts, and format visualisations for clear data interpretation.
 
 ---
 
@@ -43,10 +43,11 @@ This lab focuses entirely on chart creation and formatting. I:
 
 ## Screenshots
 
-Lab 1 – Pivot Tables & Visualisation
-P1 – Initial Pivot Table
+### Lab 1 – Pivot Tables & Visualisation
 
-Screenshot showing the first pivot table created following the lab instructions.
+P1 – Initial Pivot Table
+Screenshot showing the first pivot table created.
+
 
 P2 – Pivot Table with Countries in Rows
 
